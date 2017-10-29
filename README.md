@@ -1,6 +1,6 @@
 # maxi-store
 
-> Maxigênios Online Store (For experiments purposes)
+> Maxigênios Online Store (For experiments purposes) with [Vue.js](https://vuejs.org/).
 
 ## Build Setup
 
@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+Project based in the excelent [Build an Online Shop With Vue](https://scotch.io/courses/build-an-online-shop-with-vue/introduction
+) course.
